@@ -1,0 +1,9 @@
+Cop Costume Set,Cartmax,$15,0
+Formal Suite Set,Megaplex,$14,9
+Fairy Costume Set,DollarSmart,$18,23
+Captain Costume,Hook Worlds,$37,16
+Black Widow Set ,Doorman,$20,29
+Spiderman Costume,Marvel,$50,10
+Ironman Costume,Marvel,$65,16
+Batman Costume,DC Comics,$50,23
+Doctor Strange,Marvel,$45,11
